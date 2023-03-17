@@ -18,4 +18,8 @@
         <td>git init</td>
         <td> It allows the user to start a new repository</td>
     </tr>
+    <tr>
+        <td>git add <file1> <file2> ... <filen></td>
+        <td> It allows the user to add n files</td>
+    </tr>
 </table>
